@@ -1,0 +1,57 @@
+[ 
+    {
+        "location":"Kantienberg",
+        "image":"https://www.arteveldehogeschool.be/sites/default/files/styles/topsmall/public/general/campus_kantienberg.jpg",
+        "address":"Voetweg 66, 9000 Gent"
+    },
+    {
+        "location":"St-Amandsberg",
+        "image":"https://www.arteveldehogeschool.be/sites/default/files/styles/topsmall/public/general/5496721188_edd16477ea_o_0.jpg?",
+        "address":"J. Gerardstraat 18, 9040 Gent-Sint-Amandsberg"
+    },
+    {
+        "location":"Sint-Annaplein",
+        "image":"https://www.arteveldehogeschool.be/sites/default/files/styles/topsmall/public/general/sap_1.jpg",
+        "address":"Sint-Annaplein 31, 9000 Gent"
+    },
+    {
+        "location":"Brusselsepoort",
+        "image":"https://www.arteveldehogeschool.be/sites/default/files/styles/topsmall/public/general/bsp_01.jpg",
+        "address":"Brusselsepoortstraat 93, 9000 Gent"
+    },
+    {
+        "location":"Kattenberg",
+        "image":"https://www.arteveldehogeschool.be/sites/default/files/styles/topsmall/public/general/campus_kattenberg.jpg",
+        "address":"Kattenberg 9, 9000 Gent"
+    },
+    {
+        "location":"Mariakerke",
+        "image":"https://www.arteveldehogeschool.be/sites/default/files/styles/topsmall/public/general/campus_mariakerke.jpg",
+        "address":"Industrieweg 232, 9030 Gent-Mariakerke"
+    },
+    {
+        "location":"Leeuwenstraat",
+        "image":"https://www.arteveldehogeschool.be/sites/default/files/styles/topsmall/public/general/lee_01-1_0.jpg",
+        "address":"Leeuwstraat 1, 9000 Gent"
+    },
+    {
+        "location":"Goudstraat",
+        "image":"https://www.arteveldehogeschool.be/sites/default/files/styles/topsmall/public/general/gou_1.jpg",
+        "address":"Goudstraat 37, 9000 Gent"
+    },
+    {
+        "location":"Hoogpoort",
+        "image":"https://www.arteveldehogeschool.be/sites/default/files/styles/topsmall/public/general/hop_01.jpg",
+        "address":"Hoogpoort 15, 9000 Gent"
+    },
+    {
+        "location":"Watersportbaan",
+        "image":"https://www.arteveldehogeschool.be/sites/default/files/styles/topsmall/public/general/render_2_.jpg",
+        "address":"Watersportlaan 4, 9000 Gent"
+    },
+    {
+        "location":"Stropkaai",
+        "image":"https://www.arteveldehogeschool.be/sites/default/files/styles/topsmall/public/general/screenshot_stropkaai.png",
+        "address":"Stropkaai 14, 9000 Gent"
+    }
+]
